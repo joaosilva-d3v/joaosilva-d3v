@@ -8,4 +8,3 @@
 joaosilva-developer/joaosilva-developer is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-![logoC](https://user-images.githubusercontent.com/105388900/168668512-0793b91b-4a0f-4508-8954-6d4eb4d6b3e2.jpg)
