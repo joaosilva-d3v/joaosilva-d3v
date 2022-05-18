@@ -11,6 +11,7 @@ int main(){
   printf("Olá.\n");
   
   printf("Me chamo João Vitor R. da Silva.\n");
+  
   printf("Atualmente estou aprendendo linguagem C através de livros e cursos online.\n");
   printf("");
 
