@@ -1,8 +1,11 @@
-- 👋 Hi, I’m @joaosilva-developer
-- 👀 I’m interested in colaborar no ambiente digital buscando cada vez mais inovação.
-- 🌱 I’m currently learning linguagem C.
-- 💞️ I’m looking to collaborate on  em projetos open source.
-- 📫 How to reach me https://www.linkedin.com/in/jo%C3%A3o-silva-90bb8722a.
+Olá.
+
+Me chamo João Vitor R. da Silva.
+
+Atualmente estou aprendendo linguagem C, através de livros e cursos online. 
+Meu objetivo é colaborar no ambiente digital procurando me aperfeiçoar cada vez mais, para poder contribuir com a comunidade open source e elaborar projetos pessoais.
+
+Como chegar até mim: https://www.linkedin.com/in/jo%C3%A3o-silva-90bb8722a
 
 <!---
 joaosilva-developer/joaosilva-developer is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
